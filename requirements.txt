@@ -1,0 +1,12 @@
+configobj
+seaborn
+matplotlib
+tensorflow-gpu
+numpy
+pandas
+numba
+mayavi
+opencv-python
+tqdm
+scipy
+plotly
